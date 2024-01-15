@@ -25,4 +25,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### ✨resume:
+
+ Focada em atuar com pessoas, todavia, dedicada a estudos de linguagens de programação para melhoria contínua dos conhecimentos obtidos em seu curso Tecnico de Informática pelo IFRS - Campus Farroupilha. Aberta a novas ideias e aprendizagens. 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF008B&height=110&section=footer"/>
